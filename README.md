@@ -1,5 +1,7 @@
-## Hi there 👋
 
+##🚀 Passionate about learning and self-development 
+##📚 Currently studying to become a Software Engineer 
+##💻 Building personal projects in Python and C++
 <!--
 **dznowo/dznowo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
