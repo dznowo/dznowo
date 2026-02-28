@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Passionate about learning and self-development
 
 📚 Currently studying to become a Software Engineer
-💻 Building personal projects in Python and C++ <!--</h3>
+💻 Building personal projects in Python and C++</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
